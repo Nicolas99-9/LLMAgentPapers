@@ -1028,6 +1028,10 @@ Must-read Papers on Large Language Model Agents.
 
     *Youran Sun\*, Xingyu Ren\*, Kejia Zhang, Xinpeng Liu, Jiaxuan Guo.* [[abs](https://arxiv.org/abs/2606.08878)], 2026.6
 
+16. **ClawBench: Can AI Agents Complete Everyday Online Tasks?**
+
+    *Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Wendong Xu, Yunzhuo Hao, Songcheng Cai, Xiaochen Wang, Huaisong Zhang, Xian Wu, Yi Lu, Minyi Lei, Kai Zou, Huifeng Yin, Ping Nie, Liang Chen, Dongfu Jiang, Wenhu Chen, Kelsey R. Allen.* [[abs](https://arxiv.org/abs/2604.08523)] [[code](https://github.com/TIGER-AI-Lab/ClawBench)], 2026.4
+
 ###  Types of Tools
 
 |      Types      | Tools                                                        |
